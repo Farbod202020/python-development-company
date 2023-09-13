@@ -1202,3 +1202,89 @@ background-blend-mode: screen;
         margin-left: 17px;
     }
 }
+@media screen and (min-width: 281px){
+    html body{
+        overflow-x: hidden;
+    }
+}
+@media screen and (max-width: 280px){
+    .Company-name{
+        width:100%;
+        left:0px;
+        top:100px;
+    }
+    .careers-info{
+        width: 90%;
+        left:50%;
+        margin-left: -50%;
+    }
+    .font-size{
+        font-size: 60px;
+    }
+    .services-b-color{
+        top:1850px;
+    }
+    .first-column{
+        top:150px;
+        margin-left: -140px;
+        left: 50%;
+        width: 280px;
+    }
+    .services{
+        top:1865px;
+    }
+    .second-column{
+        top:790px;
+        width: 280px;
+        margin-left: -140px;
+        left: 50%;
+    }
+    .containar-1{
+        width: 280px;
+    }
+    .card-title{
+        font-size: 15px;
+    }
+    .card-title-1{
+        font-size: 15px;
+    }
+    .card-title-4{
+        font-size: 15px;
+    }
+    .work-b-color{
+        top:3220px;
+    }
+    .work-containar{
+        width: 280px;
+        left: 50%;
+        margin-left: -140px;
+    }
+    .first-column-1 {     
+    width: 280px;
+}
+.work-1{
+    width: 280px;
+}
+.work-containar{
+    top:3330px;
+}
+.more-s-containar{
+    top:3210px;
+    z-index: 1;
+}
+.work{
+    top:3260px;
+}
+.about{
+    top:1450px;
+}
+.map{
+    top:3940px;
+}
+.company-info{
+    top:4370px;
+}
+.footer-smartphone{
+    top:4650px;
+}
+}
